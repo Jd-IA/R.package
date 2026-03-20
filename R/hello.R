@@ -1,3 +1,3 @@
-suma_dos <- function(a,b) {
+suma <- function(a,b) {
   return(a+b)
 }
